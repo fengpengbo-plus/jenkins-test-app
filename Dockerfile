@@ -1,6 +1,6 @@
 FROM nginx
 
-MAINTAINER zouzou
+MAINTAINER vue-docker-demo
 
 RUN rm /etc/nginx/conf.d/default.conf
 
